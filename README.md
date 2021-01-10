@@ -40,9 +40,10 @@ There you get access to financial statements of 2.5 million Russian firms.
 
 [weo]: https://github.com/ru-corporate/boo
 
-**Motivation:** IMF World Economic Ooutlook is an established publication with country macroeconomic forecasts
-and historic statistics, but no interface for immediate use in Python pandas. `weo`
-package allows to download WEO releases by year and month and transform the data by country, variable or year.
+**Motivation:** IMF World Economic Ooutlook is an established source for country macroeconomic forecasts
+and historic statistics, but has no interface for immediate use in Python pandas. `weo`
+package allows to download WEO releases by year and month and transform the dataset by choosing 
+a country, variable or a year.
 
 <a name="ssg">
   
@@ -61,7 +62,6 @@ package allows to download WEO releases by year and month and transform the data
 
 **Motivation:** after experimenting with Hugo, Jekyll, MkDocs and several other SSG I needed
 a better picture what drives the open source tool popularity in modern web authoring.
-
 
 <!--
 ## Scripts and demos
