@@ -1,8 +1,8 @@
 # Economic datasets: a dashboard
 
-I'm [Evgeniy Pogrebnyak][tw], this is a dashboard for several economic datasets and codebooks 
-that I maintain. [Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful 
-or it is similar to what you might be doing as well.
+<img class="avatar" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
+Hi, I'm Evgeniy Pogrebnyak, an economist who maintains to several open access economic datasets and codebooks. 
+[Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful or it is similar to what you are with other data.
 
 [tg]: https://t.me/epoepo
 [tw]: https://twitter.com/PogrebnyakE
