@@ -2,8 +2,8 @@
 
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
 
-Hi, I'm Evgeniy Pogrebnyak, an economist who maintains to several economic datasets and codebooks. 
-This data is open access - you can download the dataset or build it yourself locally. 
+Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast, who maintains several economic datasets and codebooks. 
+This data is open access - you can download the dataset or build it yourself with code provided. 
 
 <a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful or it is similar to what you are doing with other data.
 
@@ -21,6 +21,7 @@ This data is open access - you can download the dataset or build it yourself loc
 ### boo: Russian corporate financial reports for 2012-2018
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
+[![](https://badgen.net/pypi/v/boo)
 
 [boo]: https://github.com/ru-corporate/boo
 
@@ -34,6 +35,8 @@ There you get access to financial statements of 2.5 million Russian firms.
 ### weo: World Economic Outlook releases since 2007 as pandas dataframes
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
+[![](https://badgen.net/pypi/v/weo)
+
 
 [weo]: https://github.com/ru-corporate/boo
 
@@ -57,8 +60,7 @@ package allows to download WEO releases by year and month and transform the data
 [colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
 
 **Motivation:** after experimenting with Hugo, Jekyll, MkDocs and several other SSG I needed
-a better picture what drives the open source tool popularity.
-
+a better picture what drives the open source tool popularity in modern web authoring.
 
 
 <!--
