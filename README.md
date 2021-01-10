@@ -5,7 +5,7 @@
 Hi, I'm Evgeniy Pogrebnyak, an economist who maintains to several economic datasets and codebooks. 
 This data is open access - you can download the dataset or build it yourself locally. 
 
-<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful or it is similar to what you are with other data.
+<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful or it is similar to what you are doing with other data.
 
 [tg]: https://t.me/epoepo
 [tw]: https://twitter.com/PogrebnyakE
@@ -45,8 +45,8 @@ package allows to download WEO releases by year and month and transform the data
   
 ### ssg: Static site generators popularity on Github
 
-[![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 [![Download CSV](https://img.shields.io/badge/download-CSV-brightgreen)][url]
+[![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4429834.svg)](https://doi.org/10.5281/zenodo.4429834)
 
 [url]: https://raw.githubusercontent.com/epogrebnyak/ssg-dataset/main/data/ssg.csv
@@ -54,6 +54,14 @@ package allows to download WEO releases by year and month and transform the data
 
 **Motivation:** after experimenting with Hugo, Jekyll, MkDocs and several other SSG I needed
 a better picture what drives the open source tool popularity.
+
+**Try it live**:
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][st]
+[![Demo in Google Colab](https://img.shields.io/badge/Colab-Open-orange)][colab]
+
+[st]: https://share.streamlit.io/epogrebnyak/ssg-dataset/main
+[colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
+
 
 <!--
 ## Scripts and demos
