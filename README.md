@@ -21,7 +21,7 @@ This data is open access - you can download the dataset or build it yourself wit
 ### boo: Russian corporate financial reports for 2012-2018
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
-[![](https://badgen.net/pypi/v/boo)
+![](https://badgen.net/pypi/v/boo)
 
 [boo]: https://github.com/ru-corporate/boo
 
@@ -35,7 +35,7 @@ There you get access to financial statements of 2.5 million Russian firms.
 ### weo: World Economic Outlook releases since 2007 as pandas dataframes
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
-[![](https://badgen.net/pypi/v/weo)
+![](https://badgen.net/pypi/v/weo)
 
 
 [weo]: https://github.com/ru-corporate/boo
