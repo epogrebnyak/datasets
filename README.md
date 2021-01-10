@@ -9,19 +9,26 @@ or it is similar to what you might be doing as well.
 
 ## Releases
 
+- [boo](boo)
+- [weo](weo)
+- [ssg-dataset](ssg-dataset)
+
+<a name="boo">
 ### boo: Russian corporate financial reports for 2012-2018
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
 
 [boo]: https://github.com/ru-corporate/boo
 
+<a name="weo">
 ### weo: World Economic Outlook releases since 2007 as pandas dataframes
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
 
 [boo]: https://github.com/ru-corporate/boo
 
-### Static site generators (SSG) popularity on Github
+<a name="sseg">
+### ssg-dataset: Static site generators popularity on Github
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 
