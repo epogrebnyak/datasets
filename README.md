@@ -12,9 +12,7 @@ This data is open access - you can download the dataset or build it yourself wit
 
 ## Releases
 
-- [boo](#boo)
-- [weo](#weo)
-- [ssg](#ssg)
+[boo](#boo) - [weo](#weo) - [ssg](#ssg)
 
 <a name="boo">
   
@@ -22,6 +20,7 @@ This data is open access - you can download the dataset or build it yourself wit
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
 ![](https://badgen.net/pypi/v/boo)
+![](https://badgen.net/github/last-commit/ru-corporate/boo)
 
 [boo]: https://github.com/ru-corporate/boo
 
@@ -36,7 +35,7 @@ There you get access to financial statements of 2.5 million Russian firms.
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
 ![](https://badgen.net/pypi/v/weo)
-
+![](https://badgen.net/github/last-commit/epogrebnyak/weo-reader)
 
 [weo]: https://github.com/ru-corporate/boo
 
@@ -54,6 +53,7 @@ a country, variable or a year.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4429834.svg)](https://doi.org/10.5281/zenodo.4429834)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][st]
 [![Demo in Google Colab](https://img.shields.io/badge/Colab-Open-orange)][colab]
+![](https://badgen.net/github/last-commit/epogrebnyak/ssg-dataset)
 
 [url]: https://raw.githubusercontent.com/epogrebnyak/ssg-dataset/main/data/ssg.csv
 [ssg]: https://github.com/epogrebnyak/ssg-dataset
