@@ -37,9 +37,9 @@ There you get access to financial statements of 2.5 million Russian firms.
 
 [weo]: https://github.com/ru-corporate/boo
 
-**Motivation:** World Economic Ooutlook is an established publication with country macroeconomic forecasts
-and historic statistics, but no interface for immediate use in python pandas. `weo`
-package allows to download WEO releases by year and month and transform the data.
+**Motivation:** IMF World Economic Ooutlook is an established publication with country macroeconomic forecasts
+and historic statistics, but no interface for immediate use in Python pandas. `weo`
+package allows to download WEO releases by year and month and transform the data by country, variable or year.
 
 <a name="ssg">
   
@@ -48,19 +48,17 @@ package allows to download WEO releases by year and month and transform the data
 [![Download CSV](https://img.shields.io/badge/download-CSV-brightgreen)][url]
 [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4429834.svg)](https://doi.org/10.5281/zenodo.4429834)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][st]
+[![Demo in Google Colab](https://img.shields.io/badge/Colab-Open-orange)][colab]
 
 [url]: https://raw.githubusercontent.com/epogrebnyak/ssg-dataset/main/data/ssg.csv
 [ssg]: https://github.com/epogrebnyak/ssg-dataset
+[st]: https://share.streamlit.io/epogrebnyak/ssg-dataset/main
+[colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
 
 **Motivation:** after experimenting with Hugo, Jekyll, MkDocs and several other SSG I needed
 a better picture what drives the open source tool popularity.
 
-**Try it live**:
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][st]
-[![Demo in Google Colab](https://img.shields.io/badge/Colab-Open-orange)][colab]
-
-[st]: https://share.streamlit.io/epogrebnyak/ssg-dataset/main
-[colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
 
 
 <!--
