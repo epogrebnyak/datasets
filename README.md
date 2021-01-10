@@ -6,6 +6,9 @@ that I maintain. There is also a small blog that documents things I've learnt in
 [Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful 
 or it is similar to what you might be doing as well.
 
+[tg]: https://t.me/epoepo
+[tw]: https://twitter.com/PogrebnyakE
+
 ## Releases
 
 ### boo: Russian corporate financial reports for 2012-2018
@@ -30,11 +33,3 @@ or it is similar to what you might be doing as well.
 ## Scripts and demos
 ## Archive
 -->
-
-## Contacts
-
-[![](https://badgen.net/badge/icon/telegram?icon=telegram&label)][tg]
-[![](https://badgen.net/badge/icon/twitter?icon=telegram&label)][tw]
-
-[tg]: https://t.me/epoepo
-[tw]: https://twitter.com/PogrebnyakE
