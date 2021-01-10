@@ -1,6 +1,7 @@
 # Economic datasets: a dashboard
 
-<img class="avatar" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
+<img class="avatar" align="right" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48 />
+
 Hi, I'm Evgeniy Pogrebnyak, an economist who maintains to several open access economic datasets and codebooks. 
 [Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful or it is similar to what you are with other data.
 
