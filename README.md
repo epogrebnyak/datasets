@@ -1,9 +1,7 @@
 # Economic datasets: a dashboard
 
 I'm [Evgeniy Pogrebnyak][tw], this is a dashboard for several economic datasets and codebooks 
-that I maintain. There is also a small blog that documents things I've learnt in due process.
-
-[Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful 
+that I maintain. [Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful 
 or it is similar to what you might be doing as well.
 
 [tg]: https://t.me/epoepo
