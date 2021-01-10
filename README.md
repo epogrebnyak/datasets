@@ -43,7 +43,7 @@ package allows to download WEO releases by year and month and transform the data
 
 <a name="ssg">
   
-### ssg-dataset: Static site generators popularity on Github
+### ssg: Static site generators popularity on Github
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 [![Download CSV](https://img.shields.io/badge/download-CSV-brightgreen)][url]
@@ -54,8 +54,6 @@ package allows to download WEO releases by year and month and transform the data
 
 **Motivation:** after experimenting with Hugo, Jekyll, MkDocs and several other SSG I needed
 a better picture what drives the open source tool popularity.
-
-
 
 <!--
 ## Scripts and demos
