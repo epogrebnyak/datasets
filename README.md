@@ -26,9 +26,8 @@ This data is open access - you can download the dataset or build it yourself loc
 
 **Motivation:** Rosstat published Russian corporate reports as open-source datasets 
 in 2012-2018, but without metadata. The `boo` package knows where to 
-download dataset from, assign variable names to columns and clean some  
-erroneous rows. There you get access to financial statements of 2.5 million Russian 
-firms.
+download dataset from, assign variable names to columns and clean some erroneous rows.
+There you get access to financial statements of 2.5 million Russian firms.
 
 <a name="weo">
   
