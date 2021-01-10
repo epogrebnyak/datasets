@@ -3,9 +3,8 @@
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
 
 Hi, I'm Evgeniy Pogrebnyak, an economist who maintains to several economic datasets and codebooks. 
-This data is open access - you can download the dataset or build it yourself locally.
-
-[Drop me a line](mailto:e.pogrebnyak@gmail.com) if you find this work useful or it is similar to what you are with other data.
+This data is open access - you can download the dataset or build it yourself locally. 
+<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful or it is similar to what you are with other data.
 
 [tg]: https://t.me/epoepo
 [tw]: https://twitter.com/PogrebnyakE
