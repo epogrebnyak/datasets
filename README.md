@@ -1,4 +1,4 @@
-# Economic datasets: a dashboard
+# EPo: My dataset dashboard
 
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
 
