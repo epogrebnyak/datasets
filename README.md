@@ -53,7 +53,7 @@ a country, variable or a year.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4429834.svg)](https://doi.org/10.5281/zenodo.4429834)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][st]
 [![Demo in Google Colab](https://img.shields.io/badge/Colab-Open-orange)][colab]
-![](https://badgen.net/github/last-commit/epogrebnyak/ssg-dataset)
+![GitHub last commit](https://img.shields.io/github/last-commit/epogrebnyak/ssg-dataset)
 
 [url]: https://raw.githubusercontent.com/epogrebnyak/ssg-dataset/main/data/ssg.csv
 [ssg]: https://github.com/epogrebnyak/ssg-dataset
