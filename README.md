@@ -1,9 +1,8 @@
-# EPo: My dataset dashboard
+# My dataset dashboard
 
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
 
-Hi, I'm Evgeniy Pogrebnyak ('EPo'), an economist and open data enthusiast, who maintains several datasets and codebooks.<BR> 
-This data is open access - you can download the dataset or build it yourself with code provided. 
+Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast, who maintains several datasets and codebooks. This data is open access - you can download the dataset or build it yourself with code provided. 
 
 <a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful or it is similar to what you are doing with other data.
 
