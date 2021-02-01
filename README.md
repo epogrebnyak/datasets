@@ -59,8 +59,6 @@ a country, variable or a year.
 [st]: https://share.streamlit.io/epogrebnyak/ssg-dataset/main
 [colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
 
-## Static site generator Github stars dataset
-
 Is Hugo or Jekyll the most popular tool to generate 
 a static blog? One obvious way is to look at the Github stars. 
 But the stars can tell you more than top performers ranking:
