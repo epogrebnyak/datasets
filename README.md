@@ -59,8 +59,17 @@ a country, variable or a year.
 [st]: https://share.streamlit.io/epogrebnyak/ssg-dataset/main
 [colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
 
-**Motivation:** after experimenting with Hugo, Jekyll, MkDocs and several other SSG I needed
-a better picture what drives the open source tool popularity in modern web authoring.
+## Static site generator Github stars dataset
+
+Is Hugo or Jekyll the most popular tool to generate 
+a static blog? One obvious way is to look at the Github stars. 
+But the stars can tell you more than top performers ranking:
+the stories of community building, competition and progress 
+with web authoring tools.
+
+The dataset is provided as a [CSV file at stable URL][url] so that you can 
+easily download it, Python script to regenerate the file and 
+[a streamlit application][st] to explore the data.
 
 <!--
 ## Scripts and demos
