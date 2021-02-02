@@ -6,13 +6,13 @@
 
 Name        | Content                                              | Years      | Github
 :----------:|:-----------------------------------------------------|:----------:|:------------------------------------------------------------------
-[boo](#boo) | Russian corporate financial reports                  | 2012-2018  | [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
+[boo](#boo) | Russian firms annual financial statements            | 2012-2018  | [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
 [weo](#weo) | World Economic Outlook releases as pandas dataframes | 2007+      | [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
 [ssg](#ssg) | Static site generators popularity on Github          | 2021       | [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 
 <a name="boo">
   
-### boo: Russian corporate financial reports for 2012-2018
+### boo: Russian firms annual financial statements
 
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
 ![](https://badgen.net/pypi/v/boo)
