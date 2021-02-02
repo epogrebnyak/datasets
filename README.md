@@ -1,17 +1,15 @@
-# My dataset dashboard
-
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
 
-Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast, who maintains several datasets and codebooks. This data is open access - you can download the dataset or build it yourself with code provided. 
-
-<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful or it is similar to what you are doing with other data.
+Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast, who maintains several open datasets and codebooks. <a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful.
 
 [tg]: https://t.me/epoepo
 [tw]: https://twitter.com/PogrebnyakE
 
-## Releases
-
-[boo](#boo) - [weo](#weo) - [ssg](#ssg)
+Name        | Content                                                          | Repo
+------------|------------------------------------------------------------------|------
+[boo](#boo) | Russian corporate financial reports for 2012-2018                | GITHUB 
+[weo](#weo) | World Economic Outlook releases since 2007 as pandas dataframes  | GITHUB
+[ssg](#ssg) | Static site generators popularity on Github                      | GITHUB
 
 <a name="boo">
   
@@ -23,7 +21,7 @@ Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast, who maintains
 
 [boo]: https://github.com/ru-corporate/boo
 
-**Motivation:** Rosstat published Russian corporate reports as open-source datasets 
+Rosstat published Russian corporate reports as open-source datasets 
 in 2012-2018, but without metadata. The `boo` package knows where to 
 download dataset from, assign variable names to columns and clean some erroneous rows.
 There you get access to financial statements of 2.5 million Russian firms.
@@ -38,7 +36,7 @@ There you get access to financial statements of 2.5 million Russian firms.
 
 [weo]: https://github.com/ru-corporate/boo
 
-**Motivation:** IMF World Economic Ooutlook is an established source for country macroeconomic forecasts
+IMF World Economic Ooutlook is an established source for country macroeconomic forecasts
 and historic statistics, but has no interface for immediate use in Python pandas. `weo`
 package allows to download WEO releases by year and month and transform the dataset by choosing 
 a country, variable or a year.
