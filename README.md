@@ -1,15 +1,16 @@
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />
 
-Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast, who maintains several open datasets and codebooks. <a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> if you find this work useful.
+Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast.  Below I list several open datasets and codebooks that I maintain. 
+<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> with questions or ideas.
 
 [tg]: https://t.me/epoepo
 [tw]: https://twitter.com/PogrebnyakE
 
-Name        | Content                                                          | Repo
-------------|------------------------------------------------------------------|------
-[boo](#boo) | Russian corporate financial reports for 2012-2018                | GITHUB 
-[weo](#weo) | World Economic Outlook releases since 2007 as pandas dataframes  | GITHUB
-[ssg](#ssg) | Static site generators popularity on Github                      | GITHUB
+Name        | Content                                                          | Updated
+------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------
+[boo](#boo) | Russian corporate financial reports for 2012-2018                | ![GitHub last commit](https://badgen.net/github/last-commit/ru-corporate/boo)
+[weo](#weo) | World Economic Outlook releases since 2007 as pandas dataframes  | ![GitHub last commit](https://badgen.net/github/last-commit/epogrebnyak/weo-reader)
+[ssg](#ssg) | Static site generators popularity on Github                      | ![GitHub last commit](https://img.shields.io/github/last-commit/epogrebnyak/ssg-dataset)
 
 <a name="boo">
   
