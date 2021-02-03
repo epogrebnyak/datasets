@@ -1,5 +1,5 @@
 <img class="avatar" align="left" alt="epogrebnyak" src="https://github.com/epogrebnyak.png?v=3&s=96" width="48" height="48" />Hi, I'm Evgeniy Pogrebnyak, an economist and open data enthusiast.  Below I list several datasets and codebooks that I maintain. 
-<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> or [tweet][tw] with questions or ideas.
+<a href="mailto:e.pogrebnyak@gmail.com">Drop me a line</a> or [tweet][tw] with any questions.
 
 [tg]: https://t.me/epoepo
 [tw]: https://twitter.com/PogrebnyakE
