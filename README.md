@@ -10,6 +10,10 @@ Name        | Content                                              | Years      
 [weo](#weo) | World Economic Outlook releases as pandas dataframes | 2007+      | [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
 [ssg](#ssg) | Static site generators popularity on Github          | 2021       | [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 
+[boo]: https://github.com/ru-corporate/boo
+[weo]: https://github.com/weo-reader
+[ssg]: https://github.com/epogrebnyak/ssg-dataset
+
 <a name="boo">
   
 ### boo: Russian firms annual financial statements
@@ -17,8 +21,6 @@ Name        | Content                                              | Years      
 [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
 ![](https://badgen.net/pypi/v/boo)
 ![](https://badgen.net/github/last-commit/ru-corporate/boo)
-
-[boo]: https://github.com/ru-corporate/boo
 
 Rosstat published Russian corporate reports as open-source datasets 
 in 2012-2018, but without metadata. The `boo` package knows where to 
@@ -32,8 +34,6 @@ There you get access to financial statements of 2.5 million Russian firms.
 [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
 ![](https://badgen.net/pypi/v/weo)
 ![](https://badgen.net/github/last-commit/epogrebnyak/weo-reader)
-
-[weo]: https://github.com/ru-corporate/boo
 
 IMF World Economic Ooutlook is an established source for country macroeconomic forecasts
 and historic statistics, but has no interface for immediate use in Python pandas. `weo`
@@ -52,7 +52,6 @@ a country, variable or a year.
 ![GitHub last commit](https://img.shields.io/github/last-commit/epogrebnyak/ssg-dataset)
 
 [url]: https://raw.githubusercontent.com/epogrebnyak/ssg-dataset/main/data/ssg.csv
-[ssg]: https://github.com/epogrebnyak/ssg-dataset
 [st]: https://share.streamlit.io/epogrebnyak/ssg-dataset/main
 [colab]: https://colab.research.google.com/drive/1041e6yOyVRty5lirnbZOAU1zJ3TN77ta
 
@@ -64,9 +63,4 @@ with web authoring tools.
 
 The dataset is provided as a [CSV file at stable URL][url] so that you can 
 easily download it, Python script to regenerate the file and 
-[a streamlit application][st] to explore the data.
-
-<!--
-## Scripts and demos
-## Archive
--->
+[a streamlit application][st] to explore t
